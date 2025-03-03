@@ -3,7 +3,7 @@
 
 <p align="center">
   
-<img src="SALD-Project.png" alt="AI-Chat-Enhacer" width="400"/>
+<img src="SALD-T.png" alt="SALD-T" width="400"/>
 
 </p>
 
